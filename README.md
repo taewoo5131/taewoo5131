@@ -15,7 +15,7 @@
 <span><img src="https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/Spring Boot-skyblue?style=flat&logo=Spring Boot&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/Mybatis-pink?style=flat&logo=Mybatis&logoColor=black"/></span>
-<span><img src="https://img.shields.io/badge/JPA-brown?style=flat&logo=JPA&logoColor=black"/></span>
+<span><img src="https://img.shields.io/badge/Hibernate-brown?style=flat&logo=Hibernate&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/Vue.js-yellowgreen?style=flat&logo=Vue.js&logoColor=black"/></span>
 
 <h3 style="align: center;">DB</h3>
