@@ -16,14 +16,16 @@
 <span><img src="https://img.shields.io/badge/Spring Boot-skyblue?style=flat&logo=Spring Boot&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/Mybatis-pink?style=flat&logo=Mybatis&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/Hibernate-brown?style=flat&logo=Hibernate&logoColor=black"/></span>
+<span><img src="https://img.shields.io/badge/Querydsl-purple?style=flat&logo=Querydsl&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/Vue.js-yellowgreen?style=flat&logo=Vue.js&logoColor=black"/></span>
 
 <h3 style="align: center;">DB</h3>
 <span><img src="https://img.shields.io/badge/MySQL-yellow?style=flat&logo=MySQL&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/Redis-red?style=flat&logo=Redis&logoColor=black"/></span>
 
-<h3 style="align: center;">CloudService</h3>
+<h3 style="align: center;">INFRA</h3>
 <span><img src="https://img.shields.io/badge/AWS-purple?style=flat&logo=Amazon AWS&logoColor=black"/></span>
+<span><img src="https://img.shields.io/badge/Docker-blue?style=flat&logo=Docker&logoColor=black"/></span>
 
 <h3 style="align: center;">ETC</h3>
 <span><img src="https://img.shields.io/badge/Linux-orange?style=flat&logo=Linux&logoColor=black"/></span>
